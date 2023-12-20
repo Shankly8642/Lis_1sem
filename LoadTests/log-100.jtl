@@ -1,0 +1,225 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702888190158,1511,HTTP Request,200,OK,Users 1-1,text,true,,466464,228,100,100,https://kosmobox.ru/,111,0,58
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-1,text,true,,569,114,100,100,http://kosmobox.ru/,111,0,58
+1702888190279,1390,HTTP Request-1,200,OK,Users 1-1,text,true,,465895,114,100,100,https://kosmobox.ru/,1062,0,567
+1702888190158,1557,HTTP Request,200,OK,Users 1-6,text,true,,466464,228,99,99,https://kosmobox.ru/,115,0,58
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-6,text,true,,569,114,99,99,http://kosmobox.ru/,115,0,58
+1702888190278,1437,HTTP Request-1,200,OK,Users 1-6,text,true,,465895,114,99,99,https://kosmobox.ru/,1104,0,672
+1702888190158,1571,HTTP Request,200,OK,Users 1-9,text,true,,466464,228,98,98,https://kosmobox.ru/,115,0,59
+1702888190158,118,HTTP Request-0,301,Moved Permanently,Users 1-9,text,true,,569,114,98,98,http://kosmobox.ru/,115,0,59
+1702888190280,1449,HTTP Request-1,200,OK,Users 1-9,text,true,,465895,114,98,98,https://kosmobox.ru/,1087,0,648
+1702888190198,1578,HTTP Request,200,OK,Users 1-16,text,true,,466464,228,97,97,https://kosmobox.ru/,74,0,35
+1702888190198,77,HTTP Request-0,301,Moved Permanently,Users 1-16,text,true,,569,114,97,97,http://kosmobox.ru/,74,0,35
+1702888190281,1495,HTTP Request-1,200,OK,Users 1-16,text,true,,465895,114,97,97,https://kosmobox.ru/,1132,0,586
+1702888190159,1710,HTTP Request,200,OK,Users 1-4,text,true,,466464,228,96,96,https://kosmobox.ru/,113,0,57
+1702888190159,116,HTTP Request-0,301,Moved Permanently,Users 1-4,text,true,,569,114,96,96,http://kosmobox.ru/,113,0,57
+1702888190280,1589,HTTP Request-1,200,OK,Users 1-4,text,true,,465895,114,96,96,https://kosmobox.ru/,1208,0,503
+1702888190158,1712,HTTP Request,200,OK,Users 1-2,text,true,,466464,228,96,96,https://kosmobox.ru/,111,0,58
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-2,text,true,,569,114,96,96,http://kosmobox.ru/,111,0,58
+1702888190280,1590,HTTP Request-1,200,OK,Users 1-2,text,true,,465895,114,96,96,https://kosmobox.ru/,1223,0,544
+1702888190170,1748,HTTP Request,200,OK,Users 1-13,text,true,,466464,228,94,94,https://kosmobox.ru/,103,0,47
+1702888190170,106,HTTP Request-0,301,Moved Permanently,Users 1-13,text,true,,569,114,94,94,http://kosmobox.ru/,103,0,47
+1702888190278,1640,HTTP Request-1,200,OK,Users 1-13,text,true,,465895,114,94,94,https://kosmobox.ru/,1180,0,628
+1702888190158,1807,HTTP Request,200,OK,Users 1-5,text,true,,466464,228,93,93,https://kosmobox.ru/,112,0,58
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-5,text,true,,569,114,93,93,http://kosmobox.ru/,112,0,58
+1702888190280,1685,HTTP Request-1,200,OK,Users 1-5,text,true,,465895,114,93,93,https://kosmobox.ru/,1193,0,476
+1702888190158,1853,HTTP Request,200,OK,Users 1-7,text,true,,466464,228,92,92,https://kosmobox.ru/,114,0,58
+1702888190158,118,HTTP Request-0,301,Moved Permanently,Users 1-7,text,true,,569,114,92,92,http://kosmobox.ru/,114,0,58
+1702888190278,1733,HTTP Request-1,200,OK,Users 1-7,text,true,,465895,114,92,92,https://kosmobox.ru/,1195,0,697
+1702888190158,1857,HTTP Request,200,OK,Users 1-8,text,true,,466464,228,91,91,https://kosmobox.ru/,109,0,59
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-8,text,true,,569,114,91,91,http://kosmobox.ru/,109,0,59
+1702888190278,1737,HTTP Request-1,200,OK,Users 1-8,text,true,,465895,114,91,91,https://kosmobox.ru/,1243,0,527
+1702888190159,1885,HTTP Request,200,OK,Users 1-11,text,true,,466464,228,90,90,https://kosmobox.ru/,113,0,58
+1702888190159,117,HTTP Request-0,301,Moved Permanently,Users 1-11,text,true,,569,114,90,90,http://kosmobox.ru/,113,0,58
+1702888190278,1766,HTTP Request-1,200,OK,Users 1-11,text,true,,465895,114,90,90,https://kosmobox.ru/,1267,0,487
+1702888190161,1905,HTTP Request,200,OK,Users 1-12,text,true,,466464,228,89,89,https://kosmobox.ru/,112,0,55
+1702888190161,115,HTTP Request-0,301,Moved Permanently,Users 1-12,text,true,,569,114,89,89,http://kosmobox.ru/,112,0,55
+1702888190281,1785,HTTP Request-1,200,OK,Users 1-12,text,true,,465895,114,89,89,https://kosmobox.ru/,1267,0,604
+1702888190189,1976,HTTP Request,200,OK,Users 1-15,text,true,,466464,228,88,88,https://kosmobox.ru/,81,0,34
+1702888190189,86,HTTP Request-0,301,Moved Permanently,Users 1-15,text,true,,569,114,88,88,http://kosmobox.ru/,81,0,34
+1702888190278,1887,HTTP Request-1,200,OK,Users 1-15,text,true,,465895,114,88,88,https://kosmobox.ru/,1225,0,718
+1702888190620,1804,HTTP Request,200,OK,Users 1-58,text,true,,466464,228,87,87,https://kosmobox.ru/,1167,0,1111
+1702888190620,1167,HTTP Request-0,301,Moved Permanently,Users 1-58,text,true,,569,114,87,87,http://kosmobox.ru/,1167,0,1111
+1702888191787,637,HTTP Request-1,200,OK,Users 1-58,text,true,,465895,114,87,87,https://kosmobox.ru/,397,0,109
+1702888190158,2309,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-10,text,false,Test failed: text expected to contain /StarBox/,4005,114,86,86,https://kosmobox.ru/,111,0,59
+1702888190158,2309,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-3,text,false,Test failed: text expected to contain /StarBox/,4005,114,86,86,https://kosmobox.ru/,111,0,58
+1702888190208,2259,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-17,text,false,Test failed: text expected to contain /StarBox/,4005,114,86,86,https://kosmobox.ru/,75,0,34
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-3,text,true,,569,114,86,86,http://kosmobox.ru/,111,0,58
+1702888190208,75,HTTP Request-0,301,Moved Permanently,Users 1-17,text,true,,569,114,86,86,http://kosmobox.ru/,75,0,34
+1702888190158,117,HTTP Request-0,301,Moved Permanently,Users 1-10,text,true,,569,114,86,86,http://kosmobox.ru/,111,0,59
+1702888190280,2187,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-3,text,false,,3436,0,86,86,https://kosmobox.ru/,0,0,2187
+1702888190283,2184,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-17,text,false,,3436,0,86,86,https://kosmobox.ru/,0,0,2184
+1702888190277,2190,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-10,text,false,,3436,0,86,86,https://kosmobox.ru/,0,0,2190
+1702888190180,2287,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-14,text,false,Test failed: text expected to contain /StarBox/,4005,114,86,86,https://kosmobox.ru/,93,0,37
+1702888190180,96,HTTP Request-0,301,Moved Permanently,Users 1-14,text,true,,569,114,86,86,http://kosmobox.ru/,93,0,37
+1702888190280,2187,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-14,text,false,,3436,0,86,86,https://kosmobox.ru/,0,0,2187
+1702888190309,2187,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-27,text,false,Test failed: text expected to contain /StarBox/,2804,0,82,82,http://kosmobox.ru/,0,0,2187
+1702888190239,2257,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-20,text,false,Test failed: text expected to contain /StarBox/,4005,114,82,82,https://kosmobox.ru/,71,0,33
+1702888190239,71,HTTP Request-0,301,Moved Permanently,Users 1-20,text,true,,569,114,82,82,http://kosmobox.ru/,71,0,33
+1702888190310,2186,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-20,text,false,,3436,0,82,82,https://kosmobox.ru/,0,0,2186
+1702888190299,2198,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-26,text,false,Test failed: text expected to contain /StarBox/,2804,0,80,80,http://kosmobox.ru/,0,0,2198
+1702888190329,2168,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-29,text,false,Test failed: text expected to contain /StarBox/,2804,0,79,79,http://kosmobox.ru/,0,0,2168
+1702888190248,2249,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-21,text,false,Test failed: text expected to contain /StarBox/,4005,114,78,78,https://kosmobox.ru/,70,0,33
+1702888190228,2269,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-19,text,false,Test failed: text expected to contain /StarBox/,4005,114,78,78,https://kosmobox.ru/,73,0,33
+1702888190248,70,HTTP Request-0,301,Moved Permanently,Users 1-21,text,true,,569,114,78,78,http://kosmobox.ru/,70,0,33
+1702888190228,73,HTTP Request-0,301,Moved Permanently,Users 1-19,text,true,,569,114,78,78,http://kosmobox.ru/,73,0,33
+1702888190318,2179,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-21,text,false,,3436,0,78,78,https://kosmobox.ru/,0,0,2179
+1702888190302,2195,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-19,text,false,,3436,0,78,78,https://kosmobox.ru/,0,0,2195
+1702888190318,2182,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-28,text,false,Test failed: text expected to contain /StarBox/,2804,0,76,76,http://kosmobox.ru/,0,0,2182
+1702888190339,2188,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-30,text,false,Test failed: text expected to contain /StarBox/,2804,0,75,75,http://kosmobox.ru/,0,0,2188
+1702888190272,2255,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-23,text,false,Test failed: text expected to contain /StarBox/,4005,114,75,75,https://kosmobox.ru/,72,0,34
+1702888190272,72,HTTP Request-0,301,Moved Permanently,Users 1-23,text,true,,569,114,75,75,http://kosmobox.ru/,72,0,34
+1702888190345,2182,HTTP Request-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:443 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-23,text,false,,3436,0,75,75,https://kosmobox.ru/,0,0,2182
+1702888190739,1796,HTTP Request,200,OK,Users 1-70,text,true,,466464,228,73,73,https://kosmobox.ru/,1167,0,1119
+1702888190739,1167,HTTP Request-0,301,Moved Permanently,Users 1-70,text,true,,569,114,73,73,http://kosmobox.ru/,1167,0,1119
+1702888191907,628,HTTP Request-1,200,OK,Users 1-70,text,true,,465895,114,73,73,https://kosmobox.ru/,395,0,94
+1702888190222,2323,HTTP Request,200,OK,Users 1-18,text,true,,466464,228,72,72,https://kosmobox.ru/,72,0,35
+1702888190222,72,HTTP Request-0,301,Moved Permanently,Users 1-18,text,true,,569,114,72,72,http://kosmobox.ru/,72,0,35
+1702888190295,2250,HTTP Request-1,200,OK,Users 1-18,text,true,,465895,114,72,72,https://kosmobox.ru/,2016,0,1729
+1702888190372,2185,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-33,text,false,Test failed: text expected to contain /StarBox/,2804,0,71,71,http://kosmobox.ru/,0,0,2185
+1702888190800,1772,HTTP Request,200,OK,Users 1-76,text,true,,466464,228,70,70,https://kosmobox.ru/,1152,0,1115
+1702888190800,1152,HTTP Request-0,301,Moved Permanently,Users 1-76,text,true,,569,114,70,70,http://kosmobox.ru/,1152,0,1115
+1702888191953,619,HTTP Request-1,200,OK,Users 1-76,text,true,,465895,114,70,70,https://kosmobox.ru/,383,0,93
+1702888190408,2195,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-37,text,false,Test failed: text expected to contain /StarBox/,2804,0,69,69,http://kosmobox.ru/,0,0,2195
+1702888190459,2175,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-42,text,false,Test failed: text expected to contain /StarBox/,2804,0,68,68,http://kosmobox.ru/,0,0,2175
+1702888190469,2180,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-43,text,false,Test failed: text expected to contain /StarBox/,2804,0,67,67,http://kosmobox.ru/,0,0,2180
+1702888190840,1809,HTTP Request,200,OK,Users 1-80,text,true,,466464,228,67,67,https://kosmobox.ru/,1184,0,1105
+1702888190840,1184,HTTP Request-0,301,Moved Permanently,Users 1-80,text,true,,569,114,67,67,http://kosmobox.ru/,1184,0,1105
+1702888192025,624,HTTP Request-1,200,OK,Users 1-80,text,true,,465895,114,67,67,https://kosmobox.ru/,392,0,96
+1702888190289,2377,HTTP Request,200,OK,Users 1-25,text,true,,466464,228,65,65,https://kosmobox.ru/,1738,0,1656
+1702888190289,1738,HTTP Request-0,301,Moved Permanently,Users 1-25,text,true,,569,114,65,65,http://kosmobox.ru/,1738,0,1656
+1702888192027,639,HTTP Request-1,200,OK,Users 1-25,text,true,,465895,114,65,65,https://kosmobox.ru/,400,0,116
+1702888190488,2190,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-45,text,false,Test failed: text expected to contain /StarBox/,2804,0,64,64,http://kosmobox.ru/,0,0,2190
+1702888190498,2195,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-46,text,false,Test failed: text expected to contain /StarBox/,2804,0,63,63,http://kosmobox.ru/,0,0,2195
+1702888190511,2200,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-47,text,false,Test failed: text expected to contain /StarBox/,2804,0,62,62,http://kosmobox.ru/,0,0,2200
+1702888190522,2186,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-48,text,false,Test failed: text expected to contain /StarBox/,2804,0,62,62,http://kosmobox.ru/,0,0,2186
+1702888190528,2195,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-49,text,false,Test failed: text expected to contain /StarBox/,2804,0,60,60,http://kosmobox.ru/,0,0,2195
+1702888190542,2196,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-50,text,false,Test failed: text expected to contain /StarBox/,2804,0,59,59,http://kosmobox.ru/,0,0,2196
+1702888190611,2188,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-57,text,false,Test failed: text expected to contain /StarBox/,2804,0,58,58,http://kosmobox.ru/,0,0,2188
+1702888190640,2189,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-60,text,false,Test failed: text expected to contain /StarBox/,2804,0,57,57,http://kosmobox.ru/,0,0,2189
+1702888190636,2193,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-59,text,false,Test failed: text expected to contain /StarBox/,2804,0,57,57,http://kosmobox.ru/,0,0,2193
+1702888190649,2195,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-61,text,false,Test failed: text expected to contain /StarBox/,2804,0,55,55,http://kosmobox.ru/,0,0,2195
+1702888190683,2191,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-64,text,false,Test failed: text expected to contain /StarBox/,2804,0,54,54,http://kosmobox.ru/,0,0,2191
+1702888190718,2203,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-68,text,false,Test failed: text expected to contain /StarBox/,2804,0,53,53,http://kosmobox.ru/,0,0,2202
+1702888190731,2190,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-69,text,false,Test failed: text expected to contain /StarBox/,2804,0,53,53,http://kosmobox.ru/,0,0,2189
+1702888190749,2201,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-71,text,false,Test failed: text expected to contain /StarBox/,2804,0,51,51,http://kosmobox.ru/,0,0,2201
+1702888190780,2185,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-74,text,false,Test failed: text expected to contain /StarBox/,2804,0,50,50,http://kosmobox.ru/,0,0,2185
+1702888190768,2198,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-73,text,false,Test failed: text expected to contain /StarBox/,2804,0,50,50,http://kosmobox.ru/,0,0,2197
+1702888190788,2178,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-75,text,false,Test failed: text expected to contain /StarBox/,2804,0,48,48,http://kosmobox.ru/,0,0,2178
+1702888190764,2202,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-72,text,false,Test failed: text expected to contain /StarBox/,2804,0,47,47,http://kosmobox.ru/,0,0,2202
+1702888190419,2569,HTTP Request,200,OK,Users 1-38,text,true,,466464,228,46,46,https://kosmobox.ru/,1727,0,1666
+1702888190419,1727,HTTP Request-0,301,Moved Permanently,Users 1-38,text,true,,569,114,46,46,http://kosmobox.ru/,1727,0,1666
+1702888192146,842,HTTP Request-1,200,OK,Users 1-38,text,true,,465895,114,46,46,https://kosmobox.ru/,381,0,99
+1702888190810,2204,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-77,text,false,Test failed: text expected to contain /StarBox/,2804,0,45,45,http://kosmobox.ru/,0,0,2204
+1702888190819,2196,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-78,text,false,Test failed: text expected to contain /StarBox/,2804,0,44,44,http://kosmobox.ru/,0,0,2195
+1702888190959,2056,HTTP Request,200,OK,Users 1-92,text,true,,466464,228,43,43,https://kosmobox.ru/,1187,0,1123
+1702888190959,1187,HTTP Request-0,301,Moved Permanently,Users 1-92,text,true,,569,114,43,43,http://kosmobox.ru/,1187,0,1123
+1702888192146,869,HTTP Request-1,200,OK,Users 1-92,text,true,,465895,114,43,43,https://kosmobox.ru/,405,0,123
+1702888190849,2194,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-81,text,false,Test failed: text expected to contain /StarBox/,2804,0,42,42,http://kosmobox.ru/,0,0,2194
+1702888190833,2210,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-79,text,false,Test failed: text expected to contain /StarBox/,2804,0,42,42,http://kosmobox.ru/,0,0,2210
+1702888190860,2184,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-82,text,false,Test failed: text expected to contain /StarBox/,2804,0,40,40,http://kosmobox.ru/,0,0,2184
+1702888190259,2853,HTTP Request,200,OK,Users 1-22,text,true,,466464,228,39,39,https://kosmobox.ru/,71,0,33
+1702888190259,71,HTTP Request-0,301,Moved Permanently,Users 1-22,text,true,,569,114,39,39,http://kosmobox.ru/,71,0,33
+1702888190331,2781,HTTP Request-1,200,OK,Users 1-22,text,true,,465895,114,39,39,https://kosmobox.ru/,2542,0,2258
+1702888190949,2200,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-91,text,false,Test failed: text expected to contain /StarBox/,2804,0,38,38,http://kosmobox.ru/,0,0,2200
+1702888190279,2870,HTTP Request,200,OK,Users 1-24,text,true,,466464,228,38,38,https://kosmobox.ru/,92,0,33
+1702888190279,92,HTTP Request-0,301,Moved Permanently,Users 1-24,text,true,,569,114,38,38,http://kosmobox.ru/,92,0,33
+1702888190372,2777,HTTP Request-1,200,OK,Users 1-24,text,true,,465895,114,38,38,https://kosmobox.ru/,2537,0,2256
+1702888190968,2199,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-93,text,false,Test failed: text expected to contain /StarBox/,2804,0,36,36,http://kosmobox.ru/,0,0,2199
+1702888190988,2192,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-95,text,false,Test failed: text expected to contain /StarBox/,2804,0,35,35,http://kosmobox.ru/,0,0,2192
+1702888190999,2181,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-96,text,false,Test failed: text expected to contain /StarBox/,2804,0,35,35,http://kosmobox.ru/,0,0,2181
+1702888190868,2342,HTTP Request,200,OK,Users 1-83,text,true,,466464,228,33,33,https://kosmobox.ru/,1698,0,1661
+1702888190868,1698,HTTP Request-0,301,Moved Permanently,Users 1-83,text,true,,569,114,33,33,http://kosmobox.ru/,1698,0,1661
+1702888192567,643,HTTP Request-1,200,OK,Users 1-83,text,true,,465895,114,33,33,https://kosmobox.ru/,402,0,97
+1702888191028,2184,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-99,text,false,Test failed: text expected to contain /StarBox/,2804,0,32,32,http://kosmobox.ru/,0,0,2183
+1702888191018,2194,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to kosmobox.ru:80 [kosmobox.ru/77.222.56.113] failed: Connection refused: connect,Users 1-98,text,false,Test failed: text expected to contain /StarBox/,2804,0,32,32,http://kosmobox.ru/,0,0,2194
+1702888190878,2387,HTTP Request,200,OK,Users 1-84,text,true,,466464,228,30,30,https://kosmobox.ru/,1713,0,1664
+1702888190878,1713,HTTP Request-0,301,Moved Permanently,Users 1-84,text,true,,569,114,30,30,http://kosmobox.ru/,1713,0,1664
+1702888192592,673,HTTP Request-1,200,OK,Users 1-84,text,true,,465895,114,30,30,https://kosmobox.ru/,432,0,100
+1702888190378,2915,HTTP Request,200,OK,Users 1-34,text,true,,466464,228,29,29,https://kosmobox.ru/,2242,0,2194
+1702888190378,2242,HTTP Request-0,301,Moved Permanently,Users 1-34,text,true,,569,114,29,29,http://kosmobox.ru/,2242,0,2194
+1702888192621,672,HTTP Request-1,200,OK,Users 1-34,text,true,,465895,114,29,29,https://kosmobox.ru/,435,0,151
+1702888190888,2410,HTTP Request,200,OK,Users 1-85,text,true,,466464,228,28,28,https://kosmobox.ru/,1705,0,1654
+1702888190888,1705,HTTP Request-0,301,Moved Permanently,Users 1-85,text,true,,569,114,28,28,http://kosmobox.ru/,1705,0,1654
+1702888192594,704,HTTP Request-1,200,OK,Users 1-85,text,true,,465895,114,28,28,https://kosmobox.ru/,434,0,124
+1702888190390,2927,HTTP Request,200,OK,Users 1-35,text,true,,466464,228,27,27,https://kosmobox.ru/,2235,0,2198
+1702888190390,2235,HTTP Request-0,301,Moved Permanently,Users 1-35,text,true,,569,114,27,27,http://kosmobox.ru/,2235,0,2198
+1702888192626,691,HTTP Request-1,200,OK,Users 1-35,text,true,,465895,114,27,27,https://kosmobox.ru/,457,0,171
+1702888190398,3399,HTTP Request,200,OK,Users 1-36,text,true,,466464,228,26,26,https://kosmobox.ru/,1691,0,1654
+1702888190398,1691,HTTP Request-0,301,Moved Permanently,Users 1-36,text,true,,569,114,26,26,http://kosmobox.ru/,1691,0,1654
+1702888192090,1707,HTTP Request-1,200,OK,Users 1-36,text,true,,465895,114,26,26,https://kosmobox.ru/,1475,0,1185
+1702888190978,2878,HTTP Request,200,OK,Users 1-94,text,true,,466464,228,25,25,https://kosmobox.ru/,2240,0,2202
+1702888190978,2240,HTTP Request-0,301,Moved Permanently,Users 1-94,text,true,,569,114,25,25,http://kosmobox.ru/,2240,0,2202
+1702888193218,638,HTTP Request-1,200,OK,Users 1-94,text,true,,465895,114,25,25,https://kosmobox.ru/,398,0,95
+1702888191039,2917,HTTP Request,200,OK,Users 1-100,text,true,,466464,228,24,24,https://kosmobox.ru/,2239,0,2190
+1702888191039,2239,HTTP Request-0,301,Moved Permanently,Users 1-100,text,true,,569,114,24,24,http://kosmobox.ru/,2239,0,2190
+1702888193279,677,HTTP Request-1,200,OK,Users 1-100,text,true,,465895,114,24,24,https://kosmobox.ru/,397,0,104
+1702888190438,3604,HTTP Request,200,OK,Users 1-40,text,true,,466464,228,23,23,https://kosmobox.ru/,2335,0,2195
+1702888190438,2335,HTTP Request-0,301,Moved Permanently,Users 1-40,text,true,,569,114,23,23,http://kosmobox.ru/,2335,0,2195
+1702888192774,1268,HTTP Request-1,200,OK,Users 1-40,text,true,,465895,114,23,23,https://kosmobox.ru/,1013,0,634
+1702888190448,3601,HTTP Request,200,OK,Users 1-41,text,true,,466464,228,22,22,https://kosmobox.ru/,2350,0,2185
+1702888190448,2350,HTTP Request-0,301,Moved Permanently,Users 1-41,text,true,,569,114,22,22,http://kosmobox.ru/,2350,0,2185
+1702888192798,1251,HTTP Request-1,200,OK,Users 1-41,text,true,,465895,114,22,22,https://kosmobox.ru/,1000,0,645
+1702888190571,3530,HTTP Request,200,OK,Users 1-53,text,true,,466464,228,21,21,https://kosmobox.ru/,2236,0,2198
+1702888190571,2236,HTTP Request-0,301,Moved Permanently,Users 1-53,text,true,,569,114,21,21,http://kosmobox.ru/,2236,0,2198
+1702888192807,1294,HTTP Request-1,200,OK,Users 1-53,text,true,,465895,114,21,21,https://kosmobox.ru/,1050,0,700
+1702888190550,3568,HTTP Request,200,OK,Users 1-51,text,true,,466464,228,20,20,https://kosmobox.ru/,1723,0,1652
+1702888190550,1723,HTTP Request-0,301,Moved Permanently,Users 1-51,text,true,,569,114,20,20,http://kosmobox.ru/,1723,0,1652
+1702888192273,1845,HTTP Request-1,200,OK,Users 1-51,text,true,,465895,114,20,20,https://kosmobox.ru/,1530,0,1191
+1702888190562,3595,HTTP Request,200,OK,Users 1-52,text,true,,466464,228,19,19,https://kosmobox.ru/,2238,0,2191
+1702888190562,2238,HTTP Request-0,301,Moved Permanently,Users 1-52,text,true,,569,114,19,19,http://kosmobox.ru/,2238,0,2191
+1702888192801,1356,HTTP Request-1,200,OK,Users 1-52,text,true,,465895,114,19,19,https://kosmobox.ru/,1009,0,684
+1702888190578,3652,HTTP Request,200,OK,Users 1-54,text,true,,466464,228,18,18,https://kosmobox.ru/,2229,0,2191
+1702888190578,2229,HTTP Request-0,301,Moved Permanently,Users 1-54,text,true,,569,114,18,18,http://kosmobox.ru/,2229,0,2191
+1702888192807,1423,HTTP Request-1,200,OK,Users 1-54,text,true,,465895,114,18,18,https://kosmobox.ru/,1058,0,723
+1702888190681,3569,HTTP Request,200,OK,Users 1-62,text,true,,466464,228,17,17,https://kosmobox.ru/,1166,0,1113
+1702888190681,1166,HTTP Request-0,301,Moved Permanently,Users 1-62,text,true,,569,114,17,17,http://kosmobox.ru/,1166,0,1113
+1702888191848,2402,HTTP Request-1,200,OK,Users 1-62,text,true,,465895,114,17,17,https://kosmobox.ru/,2033,0,1732
+1702888190699,3705,HTTP Request,200,OK,Users 1-66,text,true,,466464,228,16,16,https://kosmobox.ru/,1167,0,1108
+1702888190699,1167,HTTP Request-0,301,Moved Permanently,Users 1-66,text,true,,569,114,16,16,http://kosmobox.ru/,1167,0,1108
+1702888191867,2537,HTTP Request-1,200,OK,Users 1-66,text,true,,465895,114,16,16,https://kosmobox.ru/,2047,0,1693
+1702888190600,3973,HTTP Request,200,OK,Users 1-56,text,true,,466464,228,15,15,https://kosmobox.ru/,1689,0,1649
+1702888190600,1689,HTTP Request-0,301,Moved Permanently,Users 1-56,text,true,,569,114,15,15,http://kosmobox.ru/,1689,0,1649
+1702888192290,2283,HTTP Request-1,200,OK,Users 1-56,text,true,,465895,114,15,15,https://kosmobox.ru/,2037,0,1733
+1702888190593,3984,HTTP Request,200,OK,Users 1-55,text,true,,466464,228,14,14,https://kosmobox.ru/,1696,0,1656
+1702888190593,1696,HTTP Request-0,301,Moved Permanently,Users 1-55,text,true,,569,114,14,14,http://kosmobox.ru/,1696,0,1656
+1702888192290,2287,HTTP Request-1,200,OK,Users 1-55,text,true,,465895,114,14,14,https://kosmobox.ru/,2040,0,1724
+1702888190689,3997,HTTP Request,200,OK,Users 1-65,text,true,,466464,228,13,13,https://kosmobox.ru/,1167,0,1105
+1702888190689,1167,HTTP Request-0,301,Moved Permanently,Users 1-65,text,true,,569,114,13,13,http://kosmobox.ru/,1167,0,1105
+1702888191856,2830,HTTP Request-1,200,OK,Users 1-65,text,true,,465895,114,13,13,https://kosmobox.ru/,2592,0,2279
+1702888190683,4080,HTTP Request,200,OK,Users 1-63,text,true,,466464,228,12,12,https://kosmobox.ru/,1173,0,1111
+1702888190683,1173,HTTP Request-0,301,Moved Permanently,Users 1-63,text,true,,569,114,12,12,http://kosmobox.ru/,1173,0,1111
+1702888191856,2907,HTTP Request-1,200,OK,Users 1-63,text,true,,465895,114,12,12,https://kosmobox.ru/,2667,0,2338
+1702888190709,4159,HTTP Request,200,OK,Users 1-67,text,true,,466464,228,11,11,https://kosmobox.ru/,1187,0,1114
+1702888190709,1187,HTTP Request-0,301,Moved Permanently,Users 1-67,text,true,,569,114,11,11,http://kosmobox.ru/,1187,0,1114
+1702888191897,2971,HTTP Request-1,200,OK,Users 1-67,text,true,,465895,114,11,11,https://kosmobox.ru/,2664,0,2327
+1702888190938,3986,HTTP Request,200,OK,Users 1-90,text,true,,466464,228,10,10,https://kosmobox.ru/,2240,0,2200
+1702888190938,2240,HTTP Request-0,301,Moved Permanently,Users 1-90,text,true,,569,114,10,10,http://kosmobox.ru/,2240,0,2200
+1702888193178,1746,HTTP Request-1,200,OK,Users 1-90,text,true,,465895,114,10,10,https://kosmobox.ru/,1505,0,1165
+1702888190918,4162,HTTP Request,200,OK,Users 1-88,text,true,,466464,228,9,9,https://kosmobox.ru/,2260,0,2220
+1702888190918,2260,HTTP Request-0,301,Moved Permanently,Users 1-88,text,true,,569,114,9,9,http://kosmobox.ru/,2260,0,2220
+1702888193178,1902,HTTP Request-1,200,OK,Users 1-88,text,true,,465895,114,9,9,https://kosmobox.ru/,1580,0,1230
+1702888190359,4734,HTTP Request,200,OK,Users 1-32,text,true,,466464,228,8,8,https://kosmobox.ru/,1691,0,1647
+1702888190359,1691,HTTP Request-0,301,Moved Permanently,Users 1-32,text,true,,569,114,8,8,http://kosmobox.ru/,1691,0,1647
+1702888192051,3042,HTTP Request-1,200,OK,Users 1-32,text,true,,465895,114,8,8,https://kosmobox.ru/,2668,0,2244
+1702888190928,4165,HTTP Request,200,OK,Users 1-89,text,true,,466464,228,8,8,https://kosmobox.ru/,1161,0,1124
+1702888190928,1161,HTTP Request-0,301,Moved Permanently,Users 1-89,text,true,,569,114,8,8,http://kosmobox.ru/,1161,0,1124
+1702888192090,3003,HTTP Request-1,200,OK,Users 1-89,text,true,,465895,114,8,8,https://kosmobox.ru/,2640,0,2278
+1702888190899,4222,HTTP Request,200,OK,Users 1-86,text,true,,466464,228,6,6,https://kosmobox.ru/,2246,0,2206
+1702888190899,2246,HTTP Request-0,301,Moved Permanently,Users 1-86,text,true,,569,114,6,6,http://kosmobox.ru/,2246,0,2206
+1702888193145,1976,HTTP Request-1,200,OK,Users 1-86,text,true,,465895,114,6,6,https://kosmobox.ru/,1552,0,1176
+1702888190349,4788,HTTP Request,200,OK,Users 1-31,text,true,,466464,228,5,5,https://kosmobox.ru/,2283,0,2241
+1702888190349,2283,HTTP Request-0,301,Moved Permanently,Users 1-31,text,true,,569,114,5,5,http://kosmobox.ru/,2283,0,2241
+1702888192632,2505,HTTP Request-1,200,OK,Users 1-31,text,true,,465895,114,5,5,https://kosmobox.ru/,2200,0,1813
+1702888190478,4837,HTTP Request,200,OK,Users 1-44,text,true,,466464,228,4,4,https://kosmobox.ru/,1672,0,1634
+1702888190478,1672,HTTP Request-0,301,Moved Permanently,Users 1-44,text,true,,569,114,4,4,http://kosmobox.ru/,1672,0,1634
+1702888192151,3164,HTTP Request-1,200,OK,Users 1-44,text,true,,465895,114,4,4,https://kosmobox.ru/,2687,0,2340
+1702888191008,4319,HTTP Request,200,OK,Users 1-97,text,true,,466464,228,3,3,https://kosmobox.ru/,2227,0,2188
+1702888191008,2227,HTTP Request-0,301,Moved Permanently,Users 1-97,text,true,,569,114,3,3,http://kosmobox.ru/,2227,0,2188
+1702888193235,2092,HTTP Request-1,200,OK,Users 1-97,text,true,,465895,114,3,3,https://kosmobox.ru/,1625,0,1283
+1702888190429,4922,HTTP Request,200,OK,Users 1-39,text,true,,466464,228,2,2,https://kosmobox.ru/,1717,0,1657
+1702888190429,1717,HTTP Request-0,301,Moved Permanently,Users 1-39,text,true,,569,114,2,2,http://kosmobox.ru/,1717,0,1657
+1702888192146,3205,HTTP Request-1,200,OK,Users 1-39,text,true,,465895,114,2,2,https://kosmobox.ru/,2730,0,2317
+1702888190909,4574,HTTP Request,200,OK,Users 1-87,text,true,,466464,228,1,1,https://kosmobox.ru/,2269,0,2229
+1702888190909,2269,HTTP Request-0,301,Moved Permanently,Users 1-87,text,true,,569,114,1,1,http://kosmobox.ru/,2269,0,2229
+1702888193178,2305,HTTP Request-1,200,OK,Users 1-87,text,true,,465895,114,1,1,https://kosmobox.ru/,1666,0,1208

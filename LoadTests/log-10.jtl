@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702888147130,1036,HTTP Request,200,OK,Users 1-2,text,true,,466464,228,10,10,https://kosmobox.ru/,89,0,41
+1702888147130,94,HTTP Request-0,301,Moved Permanently,Users 1-2,text,true,,569,114,10,10,http://kosmobox.ru/,89,0,41
+1702888147226,940,HTTP Request-1,200,OK,Users 1-2,text,true,,465895,114,10,10,https://kosmobox.ru/,710,0,390
+1702888147226,958,HTTP Request,200,OK,Users 1-3,text,true,,466464,228,10,10,https://kosmobox.ru/,73,0,36
+1702888147226,73,HTTP Request-0,301,Moved Permanently,Users 1-3,text,true,,569,114,10,10,http://kosmobox.ru/,73,0,36
+1702888147300,884,HTTP Request-1,200,OK,Users 1-3,text,true,,465895,114,10,10,https://kosmobox.ru/,637,0,307
+1702888147112,1115,HTTP Request,200,OK,Users 1-1,text,true,,466464,228,8,8,https://kosmobox.ru/,105,0,58
+1702888147112,111,HTTP Request-0,301,Moved Permanently,Users 1-1,text,true,,569,114,8,8,http://kosmobox.ru/,105,0,58
+1702888147227,1000,HTTP Request-1,200,OK,Users 1-1,text,true,,465895,114,8,8,https://kosmobox.ru/,752,0,406
+1702888147324,912,HTTP Request,200,OK,Users 1-4,text,true,,466464,228,7,7,https://kosmobox.ru/,71,0,33
+1702888147324,71,HTTP Request-0,301,Moved Permanently,Users 1-4,text,true,,569,114,7,7,http://kosmobox.ru/,71,0,33
+1702888147396,840,HTTP Request-1,200,OK,Users 1-4,text,true,,465895,114,7,7,https://kosmobox.ru/,595,0,259
+1702888147423,828,HTTP Request,200,OK,Users 1-5,text,true,,466464,228,6,6,https://kosmobox.ru/,71,0,33
+1702888147423,71,HTTP Request-0,301,Moved Permanently,Users 1-5,text,true,,569,114,6,6,http://kosmobox.ru/,71,0,33
+1702888147495,756,HTTP Request-1,200,OK,Users 1-5,text,true,,465895,114,6,6,https://kosmobox.ru/,514,0,178
+1702888147622,752,HTTP Request,200,OK,Users 1-7,text,true,,466464,228,5,5,https://kosmobox.ru/,73,0,33
+1702888147622,73,HTTP Request-0,301,Moved Permanently,Users 1-7,text,true,,569,114,5,5,http://kosmobox.ru/,73,0,33
+1702888147696,678,HTTP Request-1,200,OK,Users 1-7,text,true,,465895,114,5,5,https://kosmobox.ru/,439,0,102
+1702888147527,853,HTTP Request,200,OK,Users 1-6,text,true,,466464,228,4,4,https://kosmobox.ru/,152,0,34
+1702888147527,152,HTTP Request-0,301,Moved Permanently,Users 1-6,text,true,,569,114,4,4,http://kosmobox.ru/,152,0,34
+1702888147679,701,HTTP Request-1,200,OK,Users 1-6,text,true,,465895,114,4,4,https://kosmobox.ru/,461,0,99
+1702888147723,713,HTTP Request,200,OK,Users 1-8,text,true,,466464,228,3,3,https://kosmobox.ru/,80,0,34
+1702888147723,80,HTTP Request-0,301,Moved Permanently,Users 1-8,text,true,,569,114,3,3,http://kosmobox.ru/,80,0,34
+1702888147804,632,HTTP Request-1,200,OK,Users 1-8,text,true,,465895,114,3,3,https://kosmobox.ru/,391,0,100
+1702888147821,708,HTTP Request,200,OK,Users 1-9,text,true,,466464,228,2,2,https://kosmobox.ru/,86,0,33
+1702888147821,86,HTTP Request-0,301,Moved Permanently,Users 1-9,text,true,,569,114,2,2,http://kosmobox.ru/,86,0,33
+1702888147908,621,HTTP Request-1,200,OK,Users 1-9,text,true,,465895,114,2,2,https://kosmobox.ru/,390,0,104
+1702888147919,728,HTTP Request,200,OK,Users 1-10,text,true,,466464,228,1,1,https://kosmobox.ru/,97,0,33
+1702888147919,97,HTTP Request-0,301,Moved Permanently,Users 1-10,text,true,,569,114,1,1,http://kosmobox.ru/,97,0,33
+1702888148017,630,HTTP Request-1,200,OK,Users 1-10,text,true,,465895,114,1,1,https://kosmobox.ru/,399,0,117
